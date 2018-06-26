@@ -1,0 +1,20 @@
+/* this is a test comment to push final frotend folder */
+
+body {
+  margin: 5%;;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+i {
+  cursor: pointer;
+}
+
+#record {
+  width: 30%;
+}
+
+h5 {
+  margin: -280px;
+  text-shadow: 2px 2px rgb(54, 54, 54);
+}
